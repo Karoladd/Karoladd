@@ -5,7 +5,6 @@
 - 👨‍💻 Some of my projects are available at [https://github.com/Karoladd/](https://github.com/Karoladd/Karoladd)
 - 🌱 I’m currently learning Python
 - 📫 How to reach me **karoladd.13@gmail.com**
-- 💃 Pronouns: she/her
 - ⚡ Fun fact: I love read books 📚 and eat ramen 🍜
 - 📄 Know about my experiences [(https://www.linkedin.com/in/karoline-hikari-yamamoto/)](https://www.linkedin.com/in/karoline-hikari-yamamoto/)
 
