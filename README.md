@@ -1,7 +1,6 @@
 <h1 align="center">Hi everyone 👋, I'm Karoline Yamamoto</h1>
 <h3 align="center">IT Management | Brazil</h3>
 
-- 🔭 I’m currently working on [UDIT](https://uniondigitalit.com/)
 - 👨‍💻 Some of my projects are available at [https://github.com/Karoladd/](https://github.com/Karoladd/Karoladd)
 - 🌱 I’m currently learning Python
 - 📫 How to reach me **karoladd.13@gmail.com**
